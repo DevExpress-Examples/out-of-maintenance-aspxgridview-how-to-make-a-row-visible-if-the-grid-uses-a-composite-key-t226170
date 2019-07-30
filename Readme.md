@@ -6,7 +6,7 @@
 <!-- default file list end -->
 # ASPxGridView - How to make a row visible if the grid uses a composite key
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t226170)**
+**[[Run Online]](https://codecentral.devexpress.com/t226170/)**
 <!-- run online end -->
 
 
